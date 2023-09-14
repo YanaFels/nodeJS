@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YanaFels/nodeJS.git"
+  },
+  "author": "YanaFels",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YanaFels/nodeJS/issues"
+  },
+  "homepage": "https://github.com/YanaFels/nodeJS#readme",
+  "dependencies": {
+    "@yanafels/ajs": "^1.0.0"
+  }
+}
